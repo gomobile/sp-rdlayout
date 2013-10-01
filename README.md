@@ -1,5 +1,5 @@
 This project is the starting point for the App Designer
-Responsive Design Layout tutorial video. The App Designer 
+Responsive Design Layout tutorial and video. The App Designer 
 is included in the Intel(R) XDK.
 
 Intel(R) XDK
